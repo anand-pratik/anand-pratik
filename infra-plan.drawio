@@ -22,6 +22,9 @@
         <mxCell id="4NxRTZ11jrj2CLpq35Q1-41" value="Compute" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;" vertex="1" parent="4NxRTZ11jrj2CLpq35Q1-8">
           <mxGeometry x="40" y="26" width="80" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="4NxRTZ11jrj2CLpq35Q1-48" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts_Classic.svg;" vertex="1" parent="4NxRTZ11jrj2CLpq35Q1-8">
+          <mxGeometry x="170" y="26" width="65" height="52" as="geometry" />
+        </mxCell>
         <mxCell id="4NxRTZ11jrj2CLpq35Q1-5" value="Notification service" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.notification_hub;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="82" y="586" width="70" height="70" as="geometry" />
         </mxCell>
@@ -52,6 +55,9 @@
         <mxCell id="4NxRTZ11jrj2CLpq35Q1-45" value="Compute" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;" vertex="1" parent="4NxRTZ11jrj2CLpq35Q1-24">
           <mxGeometry x="40" y="26" width="80" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="4NxRTZ11jrj2CLpq35Q1-49" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts_Classic.svg;" vertex="1" parent="4NxRTZ11jrj2CLpq35Q1-24">
+          <mxGeometry x="180" y="35" width="65" height="52" as="geometry" />
+        </mxCell>
         <mxCell id="4NxRTZ11jrj2CLpq35Q1-31" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="399" y="771" width="330" height="160" as="geometry" />
         </mxCell>
@@ -66,6 +72,9 @@
         </mxCell>
         <mxCell id="4NxRTZ11jrj2CLpq35Q1-47" value="Compute" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;" vertex="1" parent="4NxRTZ11jrj2CLpq35Q1-31">
           <mxGeometry x="45" y="23" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4NxRTZ11jrj2CLpq35Q1-50" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts_Classic.svg;" vertex="1" parent="4NxRTZ11jrj2CLpq35Q1-31">
+          <mxGeometry x="181" y="32" width="65" height="52" as="geometry" />
         </mxCell>
         <mxCell id="4NxRTZ11jrj2CLpq35Q1-38" value="" style="shape=filledEdge;curved=0;rounded=0;fixDash=1;endArrow=none;strokeWidth=10;fillColor=#ffffff;edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4NxRTZ11jrj2CLpq35Q1-1" target="4NxRTZ11jrj2CLpq35Q1-9">
           <mxGeometry width="60" height="40" relative="1" as="geometry">
