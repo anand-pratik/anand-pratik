@@ -94,6 +94,9 @@
             <mxPoint x="410" y="715" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="4NxRTZ11jrj2CLpq35Q1-51" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;vnet peering&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="178" y="613" width="130" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
